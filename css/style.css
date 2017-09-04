@@ -105,35 +105,35 @@ img#inferno {
     border-radius: none;
 }
 
-#q1 {
+#q1 /* balcony */ {
     width: 80px;
 }
 
-#q2 {
+#q2 /* graveyard */  {
 	width: 96px;
 }
 
-#q3 {
+#q3 /* pit */ {
 	width: 50px;
 }
 
-#q4 {
+#q4 /* wagon */ {
     height: 30px;
 }
 
-#q5 {
+#q5 /* library */ {
 	width: 73px;
 }
 
-#q6 {
+#q6 /* apartments */ {
 	width: 103px;
 }
 
-#q7 {
+#q7 /* default */ {
     width: 98px;
 }
 
-#q8 {
+#q8 /* dark spot */ {
     width: 98px;
 }
 
